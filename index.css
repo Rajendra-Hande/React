@@ -1,0 +1,23 @@
+#head{
+    color:rgb(255, 0, 140)
+}
+.nav-div{
+    display: flex;    
+}
+.bg-light{
+    background-color: rgb(247, 226, 218) !important;
+}
+.nav-link{
+    color: black !important;  
+}
+/* .navbar-brand{
+    color: orange !important;
+} */
+.text-muted{
+    color: orange !important;
+    font-weight: lighter;
+    
+}
+.nav-item{
+    padding: 0 20px;
+}
