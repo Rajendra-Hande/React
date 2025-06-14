@@ -1,0 +1,17 @@
+{
+  "name": "reactaccordion",
+  "version": "1.0.0",
+  "description": "Accordian app",
+  "license": "ISC",
+  "author": "Rajendra Hande",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "parcel": "^2.15.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-icons": "^5.5.0"
+  }
+}
